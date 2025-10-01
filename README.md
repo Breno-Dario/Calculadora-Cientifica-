@@ -67,3 +67,14 @@ Ela possui dois modos: **Básico** e **Científico**, permitindo realizar desde 
 ### Compilação
 ```bash
 javac CalculadoraCientifica.java
+
+
+```
+### Imagens 
+
+<img width="934" height="1022" alt="Captura de imagem_20251001_195814" src="https://github.com/user-attachments/assets/566aefaa-84af-4ecf-8b59-462d093fbd49" />
+
+<img width="930" height="1021" alt="Captura de imagem_20251001_195831" src="https://github.com/user-attachments/assets/037c5c66-399c-4760-bbfa-4391a7a17b79" />
+
+
+
